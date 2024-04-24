@@ -1,0 +1,606 @@
+[INFO ] 2024-04-24 12:27:25.723 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 12:27:34.918 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 12:27:35.516 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 12:27:39.851 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 12:27:39.861 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 12:27:39.862 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 12:27:43.131 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 12:27:43.155 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 12:27:51.845 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 12:27:58.895 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 12:27:59.028 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 12:27:59.035 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 12:27:59.035 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 12:28:02.298 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 12:28:02.310 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 12:29:05.665 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 12:29:15.488 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 12:29:20.271 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 12:29:20.399 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 12:29:20.403 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 12:29:20.403 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 12:29:23.499 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 12:29:23.511 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 12:29:32.087 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 12:29:36.523 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 12:29:36.650 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 12:29:36.654 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 12:29:36.654 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 12:29:39.602 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 12:29:39.610 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 12:29:48.991 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 12:29:53.189 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 12:29:53.313 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 12:29:53.316 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 12:29:53.316 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 12:29:56.271 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 12:29:56.277 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 12:30:05.734 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 12:30:08.427 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 12:30:08.560 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 12:30:08.564 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 12:30:08.564 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 12:30:17.183 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 12:30:17.200 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 12:30:25.871 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 12:30:30.707 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 12:30:30.839 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 12:30:30.844 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 12:30:30.845 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 12:30:33.811 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 12:30:33.819 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 12:30:42.619 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 12:30:50.780 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 12:30:50.909 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 12:30:50.914 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 12:30:50.914 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 12:30:54.331 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 13:57:17.646 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 13:57:24.621 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 13:57:31.566 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 13:57:31.690 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 13:57:31.695 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 13:57:31.695 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 13:57:34.693 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 13:57:34.703 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 13:57:39.750 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 13:57:40.008 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 13:57:41.804 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 13:57:41.804 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 13:57:41.804 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 13:57:44.176 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 13:57:44.186 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 13:57:49.241 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 13:57:56.534 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 13:57:56.658 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 13:57:56.663 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 13:57:56.663 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 13:57:59.483 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 13:57:59.487 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 13:58:04.425 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 13:58:04.649 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 13:58:29.242 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 13:58:29.242 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 13:58:29.242 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 13:58:37.298 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 13:58:37.304 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 13:58:42.305 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 13:59:04.810 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 13:59:04.935 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 13:59:04.935 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 13:59:04.935 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 13:59:07.479 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 13:59:07.484 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 13:59:12.072 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 13:59:21.634 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 13:59:21.754 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 13:59:21.757 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 13:59:21.757 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 13:59:24.815 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 14:12:23.539 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 14:12:29.348 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 14:12:30.541 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 14:12:30.677 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 14:12:30.683 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 14:12:30.683 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 14:12:34.187 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 14:12:34.199 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 14:12:39.417 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 14:12:44.722 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 14:12:44.852 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 14:12:44.856 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 14:12:44.856 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 14:12:47.529 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 14:12:47.535 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 14:12:52.541 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 14:12:52.855 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 14:12:54.516 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 14:12:54.522 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 14:12:54.522 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 14:12:55.698 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 14:12:55.711 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 14:13:00.566 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 14:13:02.005 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 14:13:03.124 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 14:13:03.134 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 14:14:13.405 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 14:14:18.609 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 14:14:30.492 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 14:14:30.618 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 14:14:30.623 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 14:14:30.623 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 14:14:33.299 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 14:14:33.308 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 14:14:38.094 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 14:14:39.913 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 14:14:40.039 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 14:14:40.043 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 14:14:40.043 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 14:14:42.334 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 14:14:42.341 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 14:14:47.835 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 14:14:48.087 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 14:14:49.544 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 14:14:49.548 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 14:14:49.548 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 14:14:51.877 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 14:14:51.884 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 14:14:56.871 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 14:14:58.329 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 14:14:58.456 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 14:14:58.459 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 14:14:58.459 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 14:15:06.206 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 14:15:06.211 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 14:15:11.473 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 14:15:13.186 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 14:15:13.310 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 14:15:13.315 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 14:15:13.315 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 14:15:15.728 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 14:15:15.735 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 14:15:20.642 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 14:15:31.440 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 14:15:31.570 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 14:15:31.573 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 14:15:31.573 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 14:15:34.030 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 14:23:39.279 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 14:23:45.108 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 14:23:52.836 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 14:23:52.965 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 14:23:52.970 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 14:23:52.970 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 14:23:55.407 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 14:23:55.419 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 14:24:00.998 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 14:24:02.982 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 14:24:03.108 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 14:24:03.114 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 14:24:03.114 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 14:24:05.305 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 14:24:05.313 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 14:24:10.263 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 14:24:13.089 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 14:24:13.217 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 14:24:13.220 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 14:24:13.220 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 14:24:15.396 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 14:24:15.402 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 14:24:20.185 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 14:24:22.772 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 14:24:22.902 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 14:24:22.904 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 14:24:22.904 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 14:24:30.592 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 14:24:30.600 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 14:24:35.515 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 14:24:37.595 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 14:24:37.722 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 14:24:37.724 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 14:24:37.724 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 14:24:39.898 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 14:24:39.903 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 14:24:44.629 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 14:24:47.002 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 14:24:47.120 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 14:24:47.123 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 14:24:47.123 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 14:24:49.337 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 14:32:31.164 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 14:32:36.717 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 14:32:38.331 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 14:32:39.488 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 14:32:39.510 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 14:36:45.237 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 14:36:50.500 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 14:36:54.226 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 14:36:54.349 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 14:36:54.349 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 14:36:54.349 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 14:36:56.807 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 14:36:56.822 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 14:37:02.134 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 14:37:12.019 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 14:37:12.154 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 14:37:12.158 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 14:37:12.158 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 14:37:15.345 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 14:37:15.355 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 14:37:20.816 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 14:37:22.736 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 14:37:22.864 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 14:37:22.864 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 14:37:22.864 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 14:37:25.280 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 14:37:25.283 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 14:37:31.102 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 14:37:33.001 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 14:37:33.131 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 14:37:33.131 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 14:37:33.131 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 14:37:40.700 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 14:37:40.718 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 14:37:45.800 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 14:37:47.165 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 14:37:47.283 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 14:37:47.283 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 14:37:47.283 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 14:37:49.863 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 14:37:49.863 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 14:37:54.719 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 14:37:56.951 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 14:37:57.084 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 14:37:57.087 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 14:37:57.087 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 14:37:59.777 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 14:48:10.982 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 14:48:16.456 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 14:48:20.731 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 14:48:20.866 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 14:48:20.875 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 14:48:20.876 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 14:48:23.950 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 14:48:23.958 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 14:48:29.436 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 14:48:30.948 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 14:48:31.073 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 14:48:31.075 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 14:48:31.075 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 14:48:33.543 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 14:48:33.549 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 14:48:38.483 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 14:48:39.970 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 14:48:40.096 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 14:48:40.099 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 14:48:40.100 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 14:48:42.616 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 14:48:42.622 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 14:48:47.474 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 14:48:49.036 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 14:48:49.161 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 14:48:49.163 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 14:48:49.163 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 14:48:56.472 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 14:48:56.478 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 14:49:01.652 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 14:49:04.325 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 14:49:04.444 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 14:49:04.447 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 14:49:04.447 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 14:49:07.193 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 14:49:07.198 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 14:49:12.028 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 14:49:14.092 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 14:49:14.211 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 14:49:14.215 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 14:49:14.216 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 14:49:16.764 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 16:26:16.033 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 16:26:25.274 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 16:26:29.933 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 16:26:30.089 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 16:26:30.109 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 16:26:30.109 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 16:26:34.193 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 16:26:34.215 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 16:26:43.452 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 16:26:47.663 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 16:26:47.783 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 16:26:47.790 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 16:26:47.791 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 16:26:51.023 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 16:26:51.035 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 16:26:59.209 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 16:27:03.729 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 16:27:03.857 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 16:27:03.866 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 16:27:03.867 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 16:27:07.318 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 16:27:07.329 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 16:27:16.066 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 16:27:21.081 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 16:27:21.213 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 16:27:21.219 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 16:27:21.220 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 16:27:30.317 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 16:27:30.334 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 16:27:38.699 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 16:27:47.141 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 16:27:47.276 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 16:27:47.282 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 16:27:47.282 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 16:27:50.990 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 16:27:50.998 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 16:27:59.397 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 16:28:04.359 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 16:28:04.489 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 16:28:04.494 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 16:28:04.494 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 16:28:07.698 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 16:36:10.882 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 16:36:16.989 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 16:36:18.671 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 16:36:18.804 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 16:36:18.804 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 16:36:18.804 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 16:36:21.507 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 16:36:21.520 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 16:36:26.844 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 16:36:28.160 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 16:36:28.288 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 16:36:28.291 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 16:36:28.291 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 16:36:30.844 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 16:36:30.851 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 16:36:35.806 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 16:36:37.478 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 16:36:37.735 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 16:36:37.741 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 16:36:37.741 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 16:36:40.168 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 16:36:40.175 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 16:36:45.025 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 16:36:47.349 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 16:36:50.110 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 16:36:50.124 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 16:36:55.027 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 16:36:56.405 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 16:36:56.521 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 16:36:56.525 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 16:36:56.525 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 16:36:59.021 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 16:36:59.027 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 16:37:04.207 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 16:37:05.436 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 16:37:05.553 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 16:37:05.559 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 16:37:05.559 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 16:37:08.124 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 16:39:40.920 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 16:39:46.463 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 16:39:47.750 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 16:39:47.874 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 16:39:47.874 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 16:39:47.874 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 16:39:50.511 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 16:39:50.517 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 16:39:55.358 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 16:40:02.825 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 16:40:02.939 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 16:40:02.939 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 16:40:02.939 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 16:40:05.199 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 16:40:05.204 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 16:40:10.526 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 16:40:16.142 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 16:40:16.273 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 16:40:16.277 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 16:40:16.277 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 16:40:18.915 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 16:40:18.922 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 16:40:24.122 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 16:40:35.418 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 16:40:35.551 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 16:40:35.551 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 16:40:35.551 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 16:40:43.607 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 16:40:43.616 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 16:40:48.842 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 16:40:58.102 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 16:40:58.235 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 16:40:58.235 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 16:40:58.235 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 16:41:01.019 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 16:41:01.031 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 16:41:06.067 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 16:41:18.928 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 16:41:19.046 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 16:41:19.046 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 16:41:19.046 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 16:41:21.766 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 21:28:12.993 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 21:28:20.347 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 21:28:21.988 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 21:37:58.865 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 21:38:07.981 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 21:38:09.010 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 21:38:10.442 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 21:38:10.453 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 21:38:10.454 [main] LoginTest - test passed
+[INFO ] 2024-04-24 21:38:15.052 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 21:38:15.074 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 21:38:22.852 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 21:38:24.356 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 21:38:24.492 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 21:38:24.499 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 21:38:24.500 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 21:38:27.989 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 21:38:27.999 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 21:38:35.257 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 21:38:36.397 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 21:38:36.528 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 21:38:36.531 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 21:38:36.532 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 21:38:39.443 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 21:38:39.451 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 21:38:45.592 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 21:38:46.776 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 21:38:46.904 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 21:38:46.908 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 21:38:46.910 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 21:38:50.300 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 21:38:50.307 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 21:38:57.053 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 21:38:58.286 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 21:38:58.407 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 21:38:58.410 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 21:38:58.411 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 21:39:06.836 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 21:39:06.841 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 21:39:12.743 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 21:39:13.988 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 21:39:14.120 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 21:39:14.123 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 21:39:14.123 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 21:39:17.304 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 21:39:17.311 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 21:39:23.539 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 21:39:24.656 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 21:39:24.814 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 21:39:24.828 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 21:39:24.828 [main] Login_Multiple - test passed1
+[INFO ] 2024-04-24 21:39:28.393 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 21:39:28.399 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 21:39:35.017 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 21:39:36.618 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 21:45:39.143 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 21:45:49.813 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 21:45:50.936 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 21:45:51.066 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 21:45:51.072 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 21:45:51.072 [main] LoginTest - test passed
+[INFO ] 2024-04-24 21:45:54.714 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 21:45:54.732 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 21:46:03.536 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 21:46:05.420 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 21:51:44.028 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 21:51:52.374 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 21:51:54.147 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 21:51:54.274 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 21:51:54.281 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 21:51:54.281 [main] LoginTest - test passed
+[INFO ] 2024-04-24 21:51:56.195 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 21:52:04.861 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 21:53:06.356 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 21:53:15.228 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 21:53:16.766 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 21:53:16.902 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 21:53:16.908 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 21:53:16.908 [main] LoginTest - test passed
+[INFO ] 2024-04-24 21:53:18.616 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 21:53:26.591 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 21:59:06.039 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 21:59:14.361 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 21:59:17.326 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 21:59:17.457 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 21:59:17.465 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 21:59:17.465 [main] LoginTest - test passed
+[INFO ] 2024-04-24 21:59:21.408 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 21:59:21.424 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 21:59:29.510 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 21:59:29.782 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 21:59:30.918 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 21:59:30.925 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 21:59:33.005 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 22:03:40.329 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 22:03:49.681 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 22:03:51.052 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 22:03:51.186 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 22:03:51.206 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 22:03:51.206 [main] LoginTest - test passed
+[INFO ] 2024-04-24 22:03:55.930 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 22:03:55.946 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 22:04:04.639 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 22:04:06.103 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 22:04:06.235 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 22:04:06.246 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 22:04:09.008 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 22:07:30.671 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 22:07:40.465 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 22:07:42.797 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 22:07:42.925 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 22:07:42.932 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 22:07:42.932 [main] LoginTest - test passed
+[INFO ] 2024-04-24 22:07:46.724 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 22:07:46.739 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 22:07:54.556 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 22:07:58.038 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 22:07:58.227 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 22:07:58.240 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 22:08:00.739 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 22:09:24.895 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 22:09:34.318 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 22:09:36.639 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 22:09:36.800 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 22:09:36.814 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 22:09:36.814 [main] LoginTest - test passed
+[INFO ] 2024-04-24 22:09:41.795 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 22:09:41.813 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 22:09:50.097 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 22:09:53.785 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 22:09:53.932 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 22:09:53.937 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 22:10:00.232 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 22:22:30.515 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 22:22:37.413 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 22:22:39.067 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 22:22:39.205 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 22:22:39.209 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 22:22:39.209 [main] LoginTest - test passed
+[INFO ] 2024-04-24 22:22:42.522 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 22:22:42.534 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 22:22:49.228 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 22:22:52.642 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 22:22:52.772 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 22:22:52.777 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 22:23:55.590 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 22:24:06.501 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 22:24:14.470 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 22:24:16.562 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 22:24:16.688 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 22:24:16.699 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 22:24:16.699 [main] LoginTest - test passed
+[INFO ] 2024-04-24 22:24:20.278 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 22:24:20.292 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 22:24:27.252 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 22:24:29.046 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 22:24:29.178 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 22:24:29.185 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 22:24:32.667 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 22:25:08.175 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 22:25:14.447 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 22:25:15.804 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 22:25:15.942 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 22:25:15.948 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 22:25:15.948 [main] LoginTest - test passed
+[INFO ] 2024-04-24 22:25:19.078 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 22:25:19.090 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 22:25:25.824 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 22:25:27.128 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 22:25:27.260 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 22:25:27.266 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 22:25:30.513 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 23:39:06.813 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 23:39:16.873 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 23:39:18.177 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 23:39:18.316 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 23:39:18.321 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 23:39:18.321 [main] LoginTest - test passed
+[INFO ] 2024-04-24 23:39:22.547 [main] BaseClass - Able to quit chrome browser
+[INFO ] 2024-04-24 23:39:22.557 [main] BaseClass - Able to recognize CONFIGURATION_FILEPATH
+[INFO ] 2024-04-24 23:39:32.468 [main] BaseClass - Able to launch chrome browser 
+[INFO ] 2024-04-24 23:39:33.242 [main] BaseClass - Able to read getProperty url value
+[INFO ] 2024-04-24 23:39:33.383 [main] BaseClass - Able to maximize window
+[INFO ] 2024-04-24 23:39:33.392 [main] BaseClass - Able to wait for 60 secs
+[INFO ] 2024-04-24 23:39:37.536 [main] BaseClass - Able to quit chrome browser
